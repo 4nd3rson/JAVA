@@ -1,4 +1,4 @@
-package fujioka;
+package exercicio.estrutura.de.controle;
 
 import java.util.Scanner;
 
