@@ -31,7 +31,7 @@ public class Classe {
 		for(int i = 0; i < 6; i++) {
 			
 			System.out.printf("Aluno[%d]:%n", i+1);
-			System.out.printf("Media: %.22f%n", vetor[i]);
+			System.out.printf("Media: %.2f%n", vetor[i]);
 			
 			if(vetor[i] < 3.0) 
 				System.out.println("REPROVADO");
